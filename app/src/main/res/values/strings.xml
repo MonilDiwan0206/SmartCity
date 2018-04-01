@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart City</string>
+    <string name="Details">Please Fill in your details...</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+    <string name="scan_this_code_at_our_nearest_office_to_collect_your_lisence">Scan this code at our nearest office to collect your Lisence</string>
+    <string name="scan">Scan</string>
+    <string name="click_the_scan_button_and_point_your_phone_to_qr_code">Click the scan button and point your phone to QR CODE</string>
+    <string name="government_login">Government Login</string>
+</resources>
